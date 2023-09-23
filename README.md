@@ -16,3 +16,22 @@ Model Evaluation: Evaluated the model's accuracy, precision, recall, and F1-scor
 Conclusion: Demonstrated the success of the KNN algorithm in accurately classifying Iris flowers, highlighting its simplicity and efficacy for this specific classification task. This project underscores the importance of data preprocessing and hyperparameter tuning in machine learning model development.
 
 
+#  salary prediction project using linear regression:
+
+Data Collection: Gathered a dataset with four columns: TV, Radio, Newspaper, and Sales.
+
+Data Preprocessing: Cleaned and prepared the data, handling missing values and ensuring data consistency.
+
+Feature Selection: Focused on TV, Radio, and Newspaper as predictors to estimate salary (Sales).
+
+Linear Regression Model: Implemented linear regression for salary prediction.
+
+Model Training: Trained the linear regression model on the dataset.
+
+Evaluation: Assessed model accuracy and performance using metrics like mean squared error or R-squared.
+
+Insights: Gained insights into how TV, Radio, and Newspaper advertising expenditures relate to salary predictions.
+
+Conclusion: Demonstrated the utility of linear regression for salary estimation based on advertising spending, aiding in decision-making for marketing strategies.
+
+
